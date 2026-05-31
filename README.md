@@ -15,3 +15,8 @@ Une carte de vœux moderne, interactive et entièrement accessible, réalisée e
 
 ## 📸 Aperçu
 
+![Screenshot](screenshot.png)
+
+## Live demo 
+
+https://cedricboucard.github.io/fcc-greeting-card/
